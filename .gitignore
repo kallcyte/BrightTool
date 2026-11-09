@@ -1,0 +1,6 @@
+# Compiled output
+*.exe
+*.pdb
+
+# Build junk
+*.ilk
